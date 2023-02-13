@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: a4f11f2bbb7cf06d4b9341ce269292ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6586583851000748216
+    second: 257-2575580_dung-beetle-clipart_0
+  - first:
+      213: 2224327165889164612
+    second: 257-2575580_dung-beetle-clipart_1
+  - first:
+      213: -599807682146920943
+    second: 257-2575580_dung-beetle-clipart_2
+  - first:
+      213: 4286737401112576896
+    second: 257-2575580_dung-beetle-clipart_3
+  - first:
+      213: 894529040144186435
+    second: 257-2575580_dung-beetle-clipart_4
+  - first:
+      213: -3431556613365712998
+    second: 257-2575580_dung-beetle-clipart_5
+  - first:
+      213: 4504872546283802396
+    second: 257-2575580_dung-beetle-clipart_6
+  - first:
+      213: 7888937601159196603
+    second: 257-2575580_dung-beetle-clipart_7
+  - first:
+      213: 4717743201235239828
+    second: 257-2575580_dung-beetle-clipart_8
+  - first:
+      213: -6296580604501032253
+    second: 257-2575580_dung-beetle-clipart_9
+  - first:
+      213: -7888636756695803408
+    second: 257-2575580_dung-beetle-clipart_10
+  - first:
+      213: 3460831758639371501
+    second: 257-2575580_dung-beetle-clipart_11
+  - first:
+      213: 3735450943917982906
+    second: 257-2575580_dung-beetle-clipart_12
+  - first:
+      213: -909776767162859673
+    second: 257-2575580_dung-beetle-clipart_13
+  - first:
+      213: -7465528318561726002
+    second: 257-2575580_dung-beetle-clipart_14
+  - first:
+      213: -1517348671085383864
+    second: 257-2575580_dung-beetle-clipart_15
+  - first:
+      213: 2265354877574486296
+    second: 257-2575580_dung-beetle-clipart_16
+  - first:
+      213: -563339780144623149
+    second: 257-2575580_dung-beetle-clipart_17
+  - first:
+      213: -5106959287554413126
+    second: 257-2575580_dung-beetle-clipart_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 257-2575580_dung-beetle-clipart_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 115
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b859328d1f386b50800000000000000
+      internalID: 6586583851000748216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257-2575580_dung-beetle-clipart_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 592
+        width: 117
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445331bb5c56ede10800000000000000
+      internalID: 2224327165889164612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257-2575580_dung-beetle-clipart_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 594
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116151c471e0da7f0800000000000000
+      internalID: -599807682146920943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257-2575580_dung-beetle-clipart_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 597
+        width: 119
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08342b644fc8d7b30800000000000000
+      internalID: 4286737401112576896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257-2575580_dung-beetle-clipart_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 453
+        width: 116
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cb01f2c610a6c00800000000000000
+      internalID: 894529040144186435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257-2575580_dung-beetle-clipart_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 454
+        width: 118
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97b1b9f079a060d0800000000000000
+      internalID: -3431556613365712998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257-2575580_dung-beetle-clipart_6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 451
+        width: 118
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fc7a786b5848e30800000000000000
+      internalID: 4504872546283802396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257-2575580_dung-beetle-clipart_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 448
+        width: 118
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfe05c63f22b7d60800000000000000
+      internalID: 7888937601159196603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257-2575580_dung-beetle-clipart_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 117
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4930423227ac87140800000000000000
+      internalID: 4717743201235239828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257-2575580_dung-beetle-clipart_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 296
+        width: 116
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c20a190d4d0e98a0800000000000000
+      internalID: -6296580604501032253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257-2575580_dung-beetle-clipart_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 298
+        width: 117
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f99e036aaee58290800000000000000
+      internalID: -7888636756695803408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257-2575580_dung-beetle-clipart_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 300
+        width: 118
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de41711f528570030800000000000000
+      internalID: 3460831758639371501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257-2575580_dung-beetle-clipart_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 117
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4012c97dcf6d330800000000000000
+      internalID: 3735450943917982906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257-2575580_dung-beetle-clipart_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 157
+        width: 119
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fba58b9d2df53f0800000000000000
+      internalID: -909776767162859673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257-2575580_dung-beetle-clipart_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 159
+        width: 118
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1528f5c8d156890800000000000000
+      internalID: -7465528318561726002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257-2575580_dung-beetle-clipart_15
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 155
+        width: 119
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f6b834c6b41fae0800000000000000
+      internalID: -1517348671085383864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257-2575580_dung-beetle-clipart_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 115
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81996004248207f10800000000000000
+      internalID: 2265354877574486296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257-2575580_dung-beetle-clipart_17
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2
+        width: 118
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d112a4647d9e28f0800000000000000
+      internalID: -563339780144623149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 257-2575580_dung-beetle-clipart_18
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 117
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdefe6f59f6029b0800000000000000
+      internalID: -5106959287554413126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

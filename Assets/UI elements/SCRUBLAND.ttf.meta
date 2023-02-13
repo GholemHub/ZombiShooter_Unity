@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2e44510bcecb8354cad173209140914a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SCRUBLAND
+  fontNames:
+  - SCRUBLAND
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b04833ab85a2a7d4ba2a8146eb0d4ad6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
